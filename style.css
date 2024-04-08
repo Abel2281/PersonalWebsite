@@ -1,0 +1,48 @@
+.header{
+    height: fit-content;
+    background-color: rebeccapurple;
+}
+
+#home{
+    padding-top: 5em;
+    width: 100%;
+    height: auto;
+}
+
+.homeText{
+    margin-top: 6em;
+}
+
+.homeImage{
+    height: 400px;
+    width: 400px;
+}
+
+#about{
+    height: auto;
+}
+
+.Skillsrow{
+    display: flex;
+    gap: 5px;
+}
+
+.Skillscarda{
+    max-width: 540px;
+}
+
+.Skillscardb{
+    max-width: 540px;
+}
+
+.exerienceContainer{
+    align-items: center;
+}
+
+.experiencerow{
+    justify-content: center;
+}
+
+.experiencerowcard{
+    max-width: 18rem;
+}
